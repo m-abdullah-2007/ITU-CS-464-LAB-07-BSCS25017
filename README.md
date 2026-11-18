@@ -4,7 +4,7 @@
 **Unity version:** [e.g. Unity 6.3 LTS - check Unity Hub] | **Render pipeline:** URP | **Target:** Android, portrait, 1080 x 1920
 **Demo video:** https://drive.google.com/file/d/1F92EiTBn7fmXJcsxC1NbICTV6w-MajVI/view?usp=drive_link
 
-**Build:** [link to the GitHub Release with the .apk / .zip]
+**Build:** https://github.com/m-abdullah-2007/ITU-CS-464-LAB-07-BSCS25017/releases/tag/v1.0.0
 
 ## 1. Game and design direction
 JET LAB is a portrait mobile jetpack runner. It is **inspired by Jetpack Joyride** (Halfbrick Studios) for the genre and menu structure only. The title, palette, layout, shapes and all code are my own. No assets from the original game are used.
