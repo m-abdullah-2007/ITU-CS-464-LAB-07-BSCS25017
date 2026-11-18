@@ -1,7 +1,8 @@
 # JET LAB - Mobile Game Menu System (CS-464 Lab 07)
 
 **Student:** Muhammad Abdullah | **Roll number:** BSCS25017
-**Unity version:** [e.g. Unity 6.3 LTS - check Unity Hub] | **Render pipeline:** URP | **Target:** Android, portrait, 1080 x 1920
+**Unity version:** Unity 6.3 LTS - 6000.3.24f1 | **Render pipeline:** URP | **Target:** Android, portrait, 1080 x 1920
+
 **Demo video:** https://drive.google.com/file/d/1F92EiTBn7fmXJcsxC1NbICTV6w-MajVI/view?usp=drive_link
 
 **Build:** https://github.com/m-abdullah-2007/ITU-CS-464-LAB-07-BSCS25017/releases/tag/v1.0.0
