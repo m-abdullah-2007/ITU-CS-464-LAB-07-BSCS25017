@@ -3,6 +3,7 @@
 **Student:** Muhammad Abdullah | **Roll number:** BSCS25017
 **Unity version:** [e.g. Unity 6.3 LTS - check Unity Hub] | **Render pipeline:** URP | **Target:** Android, portrait, 1080 x 1920
 **Demo video:** https://drive.google.com/file/d/1F92EiTBn7fmXJcsxC1NbICTV6w-MajVI/view?usp=drive_link
+
 **Build:** [link to the GitHub Release with the .apk / .zip]
 
 ## 1. Game and design direction
