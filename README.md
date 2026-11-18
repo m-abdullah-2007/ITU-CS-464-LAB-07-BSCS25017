@@ -56,11 +56,11 @@ Main Menu -> Quit -> Confirm
 
 **Annotated colour screenshot** (arrows / boxes / callouts on the design decisions):
 
-![Main Menu annotated](Docs/screenshots/01-main-menu-colour-annotated.png)
+![Main Menu annotated](Docs/Screenshots/01-main-menu-colour-annotated.png)
 
 **Greyscale screenshot:**
 
-![Main Menu greyscale](Docs/screenshots/01-main-menu-greyscale.png)
+![Main Menu greyscale](Docs/Screenshots/01-main-menu-greyscale.png)
 
 **Greyscale check:** The Prefabs were made in a way of buttons so that their use case like primary, secondary and Danger showcases their HSV demand.
 
@@ -86,11 +86,11 @@ Main Menu -> Quit -> Confirm
 
 **Annotated colour screenshot** (arrows / boxes / callouts on the design decisions):
 
-![Loadout / Character Preview annotated](Docs/screenshots/02-loadout-colour-annotated.png)
+![Loadout / Character Preview annotated](Docs/Screenshots/02-loadout-colour-annotated.png)
 
 **Greyscale screenshot:**
 
-![Loadout / Character Preview greyscale](Docs/screenshots/02-loadout-greyscale.png)
+![Loadout / Character Preview greyscale](Docs/Screenshots/02-loadout-greyscale.png)
 
 **Greyscale check:** The Prefabs were made in a way of buttons so that their use case like primary, secondary and Danger showcases their HSV demand.
 
@@ -116,11 +116,11 @@ Main Menu -> Quit -> Confirm
 
 **Annotated colour screenshot** (arrows / boxes / callouts on the design decisions):
 
-![How To Play annotated](Docs/screenshots/03-how-to-play-colour-annotated.png)
+![How To Play annotated](Docs/Screenshots/03-how-to-play-colour-annotated.png)
 
 **Greyscale screenshot:**
 
-![How To Play greyscale](Docs/screenshots/03-how-to-play-greyscale.png)
+![How To Play greyscale](Docs/Screenshots/03-how-to-play-greyscale.png)
 
 **Greyscale check:** The Prefabs were made in a way of buttons so that their use case like primary, secondary and Danger showcases their HSV demand.
 
@@ -147,11 +147,11 @@ Main Menu -> Quit -> Confirm
 
 **Annotated colour screenshot** (arrows / boxes / callouts on the design decisions):
 
-![Settings annotated](Docs/screenshots/04-settings-colour-annotated.png)
+![Settings annotated](Docs/Screenshots/04-settings-colour-annotated.png)
 
 **Greyscale screenshot:**
 
-![Settings greyscale](Docs/screenshots/04-settings-greyscale.png)
+![Settings greyscale](Docs/Screenshots/04-settings-greyscale.png)
 
 **Greyscale check:** The Prefabs were made in a way of buttons so that their use case like primary, secondary and Danger showcases their HSV demand.
 
@@ -178,11 +178,11 @@ Main Menu -> Quit -> Confirm
 
 **Annotated colour screenshot** (arrows / boxes / callouts on the design decisions):
 
-![Shop annotated](Docs/screenshots/05-shop-colour-annotated.png)
+![Shop annotated](Docs/Screenshots/05-shop-colour-annotated.png)
 
 **Greyscale screenshot:**
 
-![Shop greyscale](Docs/screenshots/05-shop-greyscale.png)
+![Shop greyscale](Docs/Screenshots/05-shop-greyscale.png)
 
 **Greyscale check:** The Prefabs were made in a way of buttons so that their use case like primary, secondary and Danger showcases their HSV demand.
 
@@ -208,11 +208,11 @@ Main Menu -> Quit -> Confirm
 
 **Annotated colour screenshot** (arrows / boxes / callouts on the design decisions):
 
-![Missions annotated](Docs/screenshots/06-missions-colour-annotated.png)
+![Missions annotated](Docs/Screenshots/06-missions-colour-annotated.png)
 
 **Greyscale screenshot:**
 
-![Missions greyscale](Docs/screenshots/06-missions-greyscale.png)
+![Missions greyscale](Docs/Screenshots/06-missions-greyscale.png)
 
 **Greyscale check:** The Prefabs were made in a way of buttons so that their use case like primary, secondary and Danger showcases their HSV demand.
 
@@ -239,11 +239,11 @@ Main Menu -> Quit -> Confirm
 
 **Annotated colour screenshot** (arrows / boxes / callouts on the design decisions):
 
-![Game HUD annotated](Docs/screenshots/07-hud-colour-annotated.png)
+![Game HUD annotated](Docs/Screenshots/07-hud-colour-annotated.png)
 
 **Greyscale screenshot:**
 
-![Game HUD greyscale](Docs/screenshots/07-hud-greyscale.png)
+![Game HUD greyscale](Docs/Screenshots/07-hud-greyscale.png)
 
 **Greyscale check:** The Prefabs were made in a way of buttons so that their use case like primary, secondary and Danger showcases their HSV demand. The Take Hit and the +Coins are just temp buttons for showcasing UI Changes and effects hence their HSVs were not that much thought upon.
 
@@ -270,11 +270,11 @@ Main Menu -> Quit -> Confirm
 
 **Annotated colour screenshot** (arrows / boxes / callouts on the design decisions):
 
-![Pause Menu annotated](Docs/screenshots/08-pause-colour-annotated.png)
+![Pause Menu annotated](Docs/Screenshots/08-pause-colour-annotated.png)
 
 **Greyscale screenshot:**
 
-![Pause Menu greyscale](Docs/screenshots/08-pause-greyscale.png)
+![Pause Menu greyscale](Docs/Screenshots/08-pause-greyscale.png)
 
 **Greyscale check:** The Prefabs were made in a way of buttons so that their use case like primary, secondary and Danger showcases their HSV demand. It was designed to blur the HUD Panel behind it so only the pause panel has more significance on the screen.
 ---
@@ -300,11 +300,11 @@ Main Menu -> Quit -> Confirm
 
 **Annotated colour screenshot** (arrows / boxes / callouts on the design decisions):
 
-![Game Over / Results annotated](Docs/screenshots/09-game-over-colour-annotated.png)
+![Game Over / Results annotated](Docs/Screenshots/09-game-over-colour-annotated.png)
 
 **Greyscale screenshot:**
 
-![Game Over / Results greyscale](Docs/screenshots/09-game-over-greyscale.png)
+![Game Over / Results greyscale](Docs/Screenshots/09-game-over-greyscale.png)
 
 **Greyscale check:** The Prefabs were made in a way of buttons so that their use case like primary, secondary and Danger showcases their HSV demand.
 
@@ -329,11 +329,11 @@ Main Menu -> Quit -> Confirm
 
 **Annotated colour screenshot** (arrows / boxes / callouts on the design decisions):
 
-![Confirm (Exit / Leave Run) annotated](Docs/screenshots/10-confirm-colour-annotated.png)
+![Confirm (Exit / Leave Run) annotated](Docs/Screenshots/10-confirm-colour-annotated.png)
 
 **Greyscale screenshot:**
 
-![Confirm (Exit / Leave Run) greyscale](Docs/screenshots/10-confirm-greyscale.png)
+![Confirm (Exit / Leave Run) greyscale](Docs/Screenshots/10-confirm-greyscale.png)
 
 **Greyscale check:** The Prefabs were made in a way of buttons so that their use case like primary, secondary and Danger showcases their HSV demand.
 
